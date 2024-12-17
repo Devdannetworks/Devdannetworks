@@ -1,18 +1,20 @@
-# 👋 Hi there, I'm Duncan Macharia!
+                                                                   # 👋 Hi there,
+                                                                I'm Duncan Macharia!
 
 
-## 🚀 About Me
-- I’m currently working on a Rust + React project on ICP.
-- I’m learning WEB3 development using Rust.
-- Ask me about Rust and blockchain.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/trade-hub-b9b7a4218/).
+                                                                   ## 🚀 About Me
+                                                   Am an enthusiasitic rust developer building dapps. 
+                                                            Bringing the internet on-chain
+
+                                           How to reach me: [LinkedIn](https://www.linkedin.com/in/trade-hub-b9b7a4218/).
 
 
-## 🛠️ My Tech Stack
-- **Languages**: Python, JavaScript, TypeScript, Rust
-- **Frameworks**: React, Django, Axum
-- **Tools**: Git, Docker, Linux
-- **Databases**: PostgreSQL, SQLite
+                                                              🛠️ My Tech Stack
+                                                    Languages**: Python, JavaScript, TypeScript, Rust
+                                                    Frameworks**: React, Django, Axum
+
+                                                    Tools: Git, Docker, Linux
+                                                    Databases**: PostgreSQL, SQLite
 
 ---
 
