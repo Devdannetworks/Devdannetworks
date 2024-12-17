@@ -18,8 +18,9 @@ How to reach me:
  
 **Languages**: Python, JavaScript, TypeScript, Rust  
 **Frameworks**: React, Django, Axum  
-**Tools**: Git, Docker, Linux  
 **Databases**: PostgreSQL, SQLite  
+**Tools**: Git, Docker, Linux  
+
 
 ---
 
