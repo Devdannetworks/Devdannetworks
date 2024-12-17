@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi there,  
+## 👋 Hi there,  
 I'm **Duncan Macharia**!
 
+---
 ## 🚀 About Me  
-I'm an enthusiastic **Rust developer** building dapps,  
-Bringing the internet **on-chain**.
+I'm an enthusiastic **Rust developer** building dapps
 
 How to reach me:  
 [LinkedIn](https://www.linkedin.com/in/trade-hub-b9b7a4218/)
