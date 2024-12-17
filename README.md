@@ -1,10 +1,10 @@
 <div align="center">
 
-## 👋 Hi there,  
+ 👋 Hi there,  
 I'm **Duncan Macharia**!
 
 ---
-## 🚀 About Me  
+ 🚀 About Me  
 I'm an enthusiastic **Rust developer** building dapps
 
 How to reach me:  
@@ -12,7 +12,7 @@ How to reach me:
 
 ---
 
-## 🛠️ My Tech Stack  
+ 🛠️ My Tech Stack  
 **Languages**: Python, JavaScript, TypeScript, Rust  
 **Frameworks**: React, Django, Axum  
 **Tools**: Git, Docker, Linux  
